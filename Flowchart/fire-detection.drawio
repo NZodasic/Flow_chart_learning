@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T16:29:00.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="22.1.21" etag="BOsu03YnP-JZgvp34yAd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T16:30:26.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="KQ8_q75Az-2f3BnnfLxh" version="22.1.21" type="github">
   <diagram name="Page-1" id="u5KeJPcRYgbmo--deUJX">
-    <mxGraphModel>
+    <mxGraphModel dx="2236" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rgzc-benjeBhr74m5rNQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rgzc-benjeBhr74m5rNQ-1" target="Rgzc-benjeBhr74m5rNQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgzc-benjeBhr74m5rNQ-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgzc-benjeBhr74m5rNQ-2" value="Extract image from video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
